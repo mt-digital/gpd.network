@@ -1,0 +1,108 @@
+---
+title: "GPD Network Shared Governance Establishment"
+subtitle: "Minutes from Meeting #1"
+date: 2026-07-01
+author: Matthew A. Turner
+---
+
+
+- **Date:** July 1, 2026
+- **Location:** 3318 Line Dr., Merced, CA 95348
+- **Present:** Matthew Turner
+
+
+## Call to Order
+
+Matthew Turner called the meeting to order for the purpose of establishing the
+initial governance structure of the GPD Network and recording
+corresponding governance actions for the organizations it presently serves.
+
+
+## GPD Network Resolution
+
+It is hereby resolved that the GPD Network shall serve as the shared
+leadership community for its affiliated organizations.
+
+During the initial phase of development, the GPD Network hereby
+establishes a three-member leadership task force drawn from its Board to
+actively guide the managed co-evolution of its affiliated organizations.
+
+This task force shall serve as the Board of Directors of Generation of
+Participation in Democracy (GPD) and provide strategic governance for SubtleTea
+Solutions (STS), consistent with the governing documents and legal status of
+each organization.
+
+The task force is constituted as a temporary structure to coordinate alignment,
+learning, and execution across entities, and shall be adjusted, expanded, or
+dissolved as needed once the mission of this phase is complete, with planning
+for the next phase expected to begin as the shape of the solution becomes clear.
+
+**The resolution was adopted.**
+
+
+## GPD Network Resolution: Financial Separation
+
+The Board recognizes the importance of maintaining appropriate financial
+separation between its affiliated organizations.
+
+During the initial phase of development, the Board shall establish policies
+governing financial interactions between Generation of Participation in
+Democracy (GPD) and SubtleTea Solutions (STS) to ensure transparency, legal
+compliance, mission alignment, and appropriate organizational independence.
+
+Until such policies are adopted, all financial interactions between affiliated
+organizations shall be undertaken cautiously and documented in a manner
+consistent with these principles.
+
+**The resolution was adopted.**
+
+
+## GPD Network Resolution: Appointment of Secretary
+
+Matthew Turner appointed **Dr. Izabela Mauricio de Rezende** to serve as
+**Secretary of the Board of Directors of the GPD Network**, effective
+immediately, to serve until her resignation, removal, or the appointment of a
+successor.
+
+**The resolution was adopted.**
+
+
+## GPD Board Resolution
+
+The meeting further records that the initial members of the GPD Network
+Board shall serve as the Board of Directors of **Generation of Participation in
+Democracy (GPD)**, consistent with the corporation's governing documents.
+
+**The resolution was adopted.**
+
+
+## STS Governance Resolution
+
+As sole owner of **SubtleTea Solutions (STS)**, Matthew Turner confirmed that,
+during the organization's initial phase of development, STS shall receive
+strategic governance from the members of the GPD Network Board.
+
+**The resolution was adopted.**
+
+
+## Adjournment
+
+There being no further business, the meeting was adjourned.
+
+---
+
+## Approval
+
+The above resolutions are hereby approved and adopted.
+
+<br>
+
+**Matthew Turner**
+
+![](/images/mt-signature.jpg){width=270px height=50px}
+
+**Date:** July 1, 2026
+
+<br>
+
+[**Return to _Governance_ Page**](/governance.qmd)

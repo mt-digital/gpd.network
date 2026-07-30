@@ -2,14 +2,15 @@ project:
   type: website
 
 website:
-  favicon: favicon.png
+  favicon: gpd-logo-square.jpeg
   open-graph: true
-  title: "GPD Américas"
+  title: "Generation of Participation in Democracy"
   navbar:
+    # logo: gpd-logo-square.jpeg
     left:
       - href: index.qmd
         text: Mission
-      - href: institutodourados.qmd
+      # - href: institutodourados.qmd
       - href: giving.qmd
       - href: governance.qmd
 
@@ -18,8 +19,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - styles.scss
     mainfont: "Source Serif 4"
     header-includes: |
       <link rel="preconnect" href="https://fonts.googleapis.com">

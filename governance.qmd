@@ -1,202 +1,103 @@
 ---
-title: "Organizing Document"
-format:
-  html:
-    toc: true
-  pdf: default
+title: "Governance"
+listing:
+  contents: minutes
+  type: table
+  sort: "date desc"
+  categories: false
 ---
 
-## Generation of Participation in Democracy
+The GPD Network serves as the shared leadership community for a growing
+ecosystem of affiliated organizations and projects. Cumulus provides a common
+forum in which leaders coordinate strategy, stewardship, and long-term direction
+while each participating organization retains its own legal identity, governing
+documents, and mission.
 
-This page contains founding documents for the formation of a California Public
-Benefit corporation and Internal Revenue Service tax exemption under section
-501(c)(3): the Generation of Participation in Democracy.
+This shared governance task force's mission is to
+found the organizational infrastructure to ensure affiliated organizations
+achieve decades of sustainable business based on transparency, continuity, and
+compliance.
 
-We are a California Public Benefit corporation in good standing. Our application
-for 501(c)(3) tax exemption has been submitted for review by the IRS.
+As the ecosystem evolves, its governance will evolve with it. The structures
+described here are intentionally lightweight and are expected to adapt as new
+leaders, organizations, and communities join the GPD Network.
 
-To apply for the 501(c)(3) exemption there must be a board with a president,
-secretary, and treasurer. For now, [Matthew A. Turner, PhD](https://mat.phd) is the
-sole board member filling all three roles. This is temporary. 
+We publish our governance documents, meeting minutes, and major decisions as
+part of our commitment to openness, institutional learning, and responsible
+stewardship. A [listing of our governing
+documents](#governance-document-archive) follows the presentation of our board
+of directors.
 
-Dr. Turner will serve as President of the GPD for the foreseeable future. Dr.
-Turner is currently interviewing candidates to fill the roles of Secretary and
-Treasurer.
+## Executive Leadership/Board of Directors
 
-The documents below establish sole directorship, bylaws, and a conflict of
-interest policy.
+Our directors serve identical roles at both GPD and STS. This is temporary
+scaffolding as we continue to identify and fill key roles.
 
+The current board act as Community executive leadership for the foreseeable
+future. Specific roles within organizations will be adjusted as necessary for
+success.
 
-## Sole Director Written Consent
 
-UNANIMOUS WRITTEN CONSENT
-OF THE SOLE DIRECTOR
-OF
-GENERATION OF PARTICIPATION IN DEMOCRACY
+### President <span class=name>Matthew A. Turner, PhD</span>
 
-The undersigned, being the sole director of Generation of Participation in Democracy, a California nonprofit public benefit corporation, hereby adopts the following resolutions by unanimous written consent pursuant to applicable California law.
+![](images/MatthewTurner.png){.member-photo}
 
-### 1. Adoption of Bylaws
+Dr. Matt Turner is the Founder and President of the Generation of Participation in
+Democracy and SubtleTea Solutions. His mission is to make science work for
+scientists, in pursuit of a sustainable economic system based on _enough_
+instead of our current system based on _never enough_.
 
-RESOLVED, that the bylaws presented to the director are hereby adopted as the
-bylaws of the corporation (see the [Bylaws section](#bylaws) below).
+In practice this means he focuses on developing organizations and principles to
+help innovative basic research live up to its full potential for positive real
+world impact.
 
-### 2. Appointment of Officers
+In a typical day, Dr. Turner might work on new coursework and writing, publish
+new content to be included in a forthcoming book, _Quantitative Social Science
+for Sustainable Futures_, creating new computer hardware and software, or
+lead a board meeting.
 
-RESOLVED, that the following officers are appointed to serve until resignation, removal, or successor appointment:
+[Dr. Turner's website](https://mat.phd)
 
-President: Matthew A. Turner, PhD
-Secretary: Matthew A. Turner, PhD
-Treasurer: Matthew A. Turner, PhD
+### Secretary <span class=name>Izabela Mauricio de Rezende, PhD</span>
 
-### 3. Conflict of Interest Policy
+![](images/IzabelaRezende.png){.member-photo}
 
-RESOLVED, that the [Conflict of Interest
-Policy](#conflict-of-interest-policy-1) presented to the director is
-hereby adopted (see below).
+Dr. Izabela Rezende is the Founder and Director of Instituto Dourados, the
+inaugural Flagship Institute of the GPD.
 
+Dr. Rezende will ensure that all members of the GPD Network deliver on our
+promise to serve the Indigenous peoples of Dourados, and improve public health
+and sustainability policy outcomes in general.
 
-### 4. Authorization to Obtain Tax-Exempt Status
+She will ensure our for-profit affiliate, SubtleTea Solutions, contributes
+to the greater good while maintaining its focus making excellent products for
+our customers and making sustainability lucrative for investors.
 
-RESOLVED, that the officers of the corporation are authorized and directed to prepare and submit Form 1023 and any related filings necessary to obtain recognition of exemption under Section 501(c)(3) of the Internal Revenue Code.
 
-### 5. Banking Authority
+[Dr. Rezende on LinkedIn](https://www.linkedin.com/in/izabela-rezende/)
 
-RESOLVED, that the officers are authorized to establish bank accounts and conduct ordinary financial operations on behalf of the corporation.
+### Treasurer <span class=name>Joshua Rueckheim, MBA</span>
 
-### 6. Ratification
+![](images/JoshuaRueckheim.png){.member-photo}
 
-RESOLVED, that all actions previously taken on behalf of the corporation consistent with these resolutions are ratified and approved.
+Joshua Rueckheim oversees book keeping, develops controls and
+ensures enforcement, and assists with structuring and executing
+forecasts and other business processes. Mr. Rueckheim
+applies his decades of expertise in business management to ensure the
+financial integrity of the GPD Network's organizations.
 
-DATED: 11 May 2026
 
+Mr. Rueckheim is currently Finance Director for the Philadelphia Hospitality
+Investment Levy and for [Alta Management
+Services](https://www.altamsi.com/our-team/). Before joining Alta, Mr. Rueckheim
+worked for Mariott International for 10 years in various finance and
+accounting roles.
 
-![](signature.jpg){width=200px}
+[Mr. Rueckheim on LinkedIn](https://www.linkedin.com/in/joshua-rueckheim-96241226/)
 
-Matthew A. Turner, PhD
 
-President & Sole Director
+## Governance Document Archive
 
+Please select a document of interest from the listing below.
 
-## Bylaws
 
-BYLAWS
-OF
-GENERATION OF PARTICIPATION IN DEMOCRACY
-
-### ARTICLE I — NAME
-
-The name of this corporation is Generation of Participation in Democracy.
-
-### ARTICLE II — PURPOSE
-
-This corporation is organized exclusively for charitable, educational, scientific, and related exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
-
-### ARTICLE III — OFFICES
-
-The principal office of the corporation shall be located in California or such other location as determined by the Board of Directors.
-
-### ARTICLE IV — DIRECTORS
-
-#### Section 1. Powers  
-
-The affairs of the corporation shall be managed by its Board of Directors.
-
-#### Section 2. Number  
-
-The authorized number of directors shall be not less than one (1) nor more than seven (7), with the exact number fixed by resolution of the Board.
-
-#### Section 3. Terms  
-
-Directors shall serve until resignation, removal, or successor appointment.
-
-#### Section 4. Meetings  
-Meetings may be held in person or by electronic communication.
-
-#### Section 5. Written Consent  
-Any action required or permitted to be taken by the Board may be taken without a meeting if written consent is provided.
-
-### ARTICLE V — OFFICERS
-
-The officers of the corporation shall include a President, Secretary, and Treasurer, and may include additional officers as determined by the Board.
-
-### ARTICLE VI — CONFLICTS OF INTEREST
-
-The corporation shall maintain and comply with a Conflict of Interest Policy.
-
-### ARTICLE VII — LIMITATIONS
-
-No part of the net earnings of the corporation shall inure to the benefit of any private individual except for reasonable compensation for services rendered.
-
-The corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.
-
-### ARTICLE VIII — DISSOLUTION
-
-Upon dissolution, the assets of the corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.
-
-### ARTICLE IX — AMENDMENTS
-
-These bylaws may be amended by the Board of Directors.
-
-### CERTIFICATION
-
-These bylaws were adopted on 11 May 2026.
-
-![](signature.jpg){width=200px}
-
-Matthew Turner
-
-Secretary
-
-
-## Conflict of Interest Policy
-
-CONFLICT OF INTEREST POLICY OF THE GENERATION OF PARTICIPATION IN DEMOCRACY
-
-### Article I — Purpose
-
-The purpose of this policy is to protect the interests of the corporation when considering transactions or arrangements that may benefit the private interests of a director, officer, or key person.
-
-### Article II — Duty to Disclose
-
-Interested persons shall disclose any actual or potential conflicts of interest.
-
-### Article III — Procedures
-
-The Board shall determine whether a conflict exists and whether any proposed arrangement is fair, reasonable, and in the best interests of the corporation.
-
-### Article IV — Records
-
-The minutes of the corporation shall document disclosures, determinations, and approvals related to conflicts of interest.
-
-### Article V — Compensation
-
-Compensation arrangements shall be reviewed and approved using reasonable and transparent procedures.
-
-### Article VI — Affiliated Entities and Transparency
-
-The corporation may collaborate with or receive operational support from
-affiliated entities, including Subtlety Solutions (STS). STS is an LLC owned by
-director, president, treasurer, and secretary Matthew Turner. 
-
-The corporation recognizes that overlapping leadership, infrastructure,
-technical services, or financial relationships may create actual or perceived
-conflicts of interest. 
-
-Such relationships are permitted only when fully disclosed, documented, and
-determined to be fair, reasonable, and in the best interests of the corporation.
-
-The corporation therefore maintains a robust transparency and disclosure
-framework, including documented approvals, public-facing financial reporting
-where appropriate, and formal conflict review procedures intended to preserve
-the corporation’s charitable mission and public trust.
-
-
-ADOPTED: 11 May 2026
-
-
-![](signature.jpg){width=200px}
-
-Matthew Turner
-
-Secretary

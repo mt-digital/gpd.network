@@ -1,67 +1,111 @@
+<!-- # Generation of Participation in Democracy {#brand-title} -->
 <h1 id="brand-title">Generation of Participation in Democracy</h1>
-<h2 id="brand-subtitle">Sustainable Operating Systems <br> for the Americas</h2>
+
+<h2 id="brand-subtitle">Sustainable Operating Systems <br>
+                        for Sustainable Futures</h2>
 
 
-<p><strong>Public Benefit Mission.</strong> GPD is a California Public Benefit Corporation advancing sustainable, participatory societies across the Americas. Our specific public benefit is to strengthen democratic capacity, public health, and institutional resilience through integrated social science, technology, and field-based collaboration.</p>
+**Public Benefit Mission.** GPD is a tax-exempt 501(c)(3) public charity and
+non-governmental organization that serves others by helping them use science,
+technology, and education to regain autonomy that might have been lost,
+especially among historically marginalized peoples. _**IRS Employer
+Identification Number: 41-4992916.**_
 
-<p><strong>Transparency.</strong> Meaningful democratic participation requires transparency. GPD operates under a principle of radical transparency wherever possible—making methods, data practices, and institutional decisions legible and accountable to the communities we serve.</p>
+**Sustainability.** We align our mission with the United Nations' [Sustainable
+Development Goals](https://sdgs.un.org/goals), focusing on developing and
+securing the foundations of participation for the 21st century.
+Our system for sustainability identifies how vibrant institutions help people
+participate by ensuring everyone's needs are met.
+Expanded, coordinated participation could be a surprisingly sturdy bulwark
+against risk and uncertainty.
 
-<p>We scale efforts aligned with the United Nations <a href="https://sdgs.un.org/goals">Sustainable Development Goals</a>, focusing on the foundations of participation: access to essential resources, reliable information, and secure institutions.</p>
+**Education.** Our _agile_ educational practices put
+synthesis and application first, and exhaustive theory second. Education
+archives and spreads word about _why_ certain practices are more beneficial,
+and _how_ to practice them. Education provides the foundation for invention.
 
-<h3>Indigenous Public Health — Instituto Dourados</h3>
+**Transparency.** Meaningful democratic participation requires transparency.
+GPD operates under a principle of radical transparency in most cases.
+True transparency in democracies requires an educated population that can
+analyze business data and make use of information supporting transparency.
 
-<p>Our first Flagship Institute, the <a
-href="https://institutodourados.org">Instituto Dourados</a>, develops and
-deploys public health systems in collaboration with Indigenous communities,
-integrating epidemiology, social science, and multilingual knowledge
-sharing.</p>
 
-<h3>Education and Digital Security</h3>
+## A Sustainability VIBE to Boost Participation
 
-<p>We design educational systems and privacy-first technologies that enable
-institutions to analyze sensitive data locally, maintaining data sovereignty
-while supporting real-time decision-making.</p>
+Our approach to boosting democratic participation amounts to raising the global
+**Sustainability _VIBE_**. We create tools and systems to accelerate the
+creation of _**V**ibrant **I**nstitutions_ that ensure everyone's
+_**B**asic needs are met_. Only when basic needs are met can people be expected
+to collectively protect our _**E**nvironment_.
+We must protect our environment to guarantee it is sustained for our children,
+their children and grandchildren and ever on down to future generations.
 
-<h3 style="margin-bottom: 15px;">Corporate Information</h3>
+In more formal language, our mission is to increase informed democratic
+participation by means of building _sustainable capacity_, _individual
+sovereignty_, and _collective autonomy_. This means technical, social, and
+political capacities exist within a group that can be readily leveraged to
+provide goods and services for that group. It further means that individuals are
+not forced to comply or conform, but instead choose to participate out of
+authentic self interest.
 
-<p>
-  <strong>Legal Structure:</strong> California Public Benefit Corporation
-</p>
+![The Sustainability VIBE in layers, with dependency flowing
+bottom-up.](VIBE-illustration.png)
 
-<p><strong>IRS Employer Identification Number (EIN):</strong> 41-4992916</p>
 
-<p><strong>GPD is under review for IRS 501(c)(3) tax-exemption.</strong></p> 
+## Instituto Dourados, our First _Flagship Institute_
 
-<p><strong>Organizing Documents:</strong> see our [Governance Documents
-page](governance.qmd)</p>
+Our first Flagship Institute, [Instituto Dourados](https://institutodourados.org), develops and deploys public health systems in collaboration with Indigenous communities, integrating epidemiology, social science, and multilingual knowledge sharing.
 
-<p>
-  <strong>Transparency inquiries:</strong> <a href="mailto:transparency@gpdamericas.org">transparency@gpdamericas.org</a>
-</p>
+To inquire about participating in the Flagship Accelerator program, please
+contact [GPD President Matt Turner](mailto:matt@gpd.network) or [GPD Secretary Iza Rezende](mailto:iza@gpd.network).
+
+
+**Organizing Documents:** See our [Governance Documents page](governance.qmd).
+
+**Transparency inquiries:** [transparency@gpdamericas.org](mailto:transparency@gpdamericas.org)
+
+
+**Download our 501(c)(3) exemption approval letter:**
+[GPD_501c3_Approval.pdf](files/GPD_501c3_Approval.pdf).
+
+<br>
+<br>
+
+![](GPD-Anchor-Logo.png){#anchor width=390px fig-align="center"}
 
 <br>
 
-![](GPD-Anchor-Logo.png){width=450px fig-align="center" #anchor}
+### Founder’s Statement
 
-<h3>Founder’s Statement</h3>
+GPD is built to move from theory to implementation—combining research, infrastructure, and education to support sustainable futures across the Americas.
+
+<div class="founder-bio">
+
+<img src="cafecito-pic.png"
+  class="float-left"
+  height="210"
+  alt="Matt Turner">
+
+<p style="font-size: 18px;">
+  <em>In solidarity and service,</em>
+</p>
+
+<img src="signature.jpg"
+  width="200"
+  alt="Matt Turner’s signature">
+
+<p style="font-size: 20px;">
+  <strong>Matt Turner, PhD</strong>
+</p>
+
+<p style="font-size: 15px; margin-bottom: 5px;">
+  Founder &amp; Architect<br>
+  GPD Américas
+</p>
 
 <p>
-GPD is built to move from theory to implementation—combining research,
-infrastructure, and education to support sustainable futures across the
-Americas.
+  <a href="mailto:matt@mat.phd">Contact</a>
 </p>
 
-![](cafecito-pic.png){.float-left height=210px} 
+</div>
 
-<p style="font-size: 18px">
-<em>In solidarity and service,</em>
-</p>
-
-![](signature.jpg){width=200px}
-
-<p style="font-size: 20px">
-<strong>Matt Turner, PhD</strong>
-</p>
-
-<p style="font-size: 15px; margin-bottom: 5px;">Founder & Architect<br>GPD Américas</p>
-<p><a href="mailto:matt@mat.phd">Contact</a></p>
