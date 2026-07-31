@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Organizing Document – GPD Américas</title>
+<title>Governance – Generation of Participation in Democracy</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,7 +33,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./favicon.png" rel="icon" type="image/png">
+<link href="./gpd-logo-square.jpeg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -43,7 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-47810c154300ff919bfcc5fb5553b539.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6d6d37bd5c8f45a91ed77471423bdd04.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,18 +73,75 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Organizing Document – GPD Américas">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Governance – Generation of Participation in Democracy">
 <meta property="og:description" content="">
-<meta property="og:image" content="signature.jpg">
-<meta property="og:site_name" content="GPD Américas">
+<meta property="og:image" content="https://gpd.network/images/MatthewTurner.png">
+<meta property="og:site_name" content="Generation of Participation in Democracy">
+<meta property="og:image:height" content="800">
+<meta property="og:image:width" content="800">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -90,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">GPD Américas</span>
+    <span class="navbar-title">Generation of Participation in Democracy</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -104,16 +163,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Mission</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./institutodourados.html"> 
-<span class="menu-text">Instituto Dourados</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./giving.html"> 
-<span class="menu-text">Giving</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./governance.html" aria-current="page"> 
-<span class="menu-text">Organizing Document</span></a>
+<span class="menu-text">Governance</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -126,52 +177,13 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#generation-of-participation-in-democracy" id="toc-generation-of-participation-in-democracy" class="nav-link active" data-scroll-target="#generation-of-participation-in-democracy">Generation of Participation in Democracy</a></li>
-  <li><a href="#sole-director-written-consent" id="toc-sole-director-written-consent" class="nav-link" data-scroll-target="#sole-director-written-consent">Sole Director Written Consent</a>
-  <ul class="collapse">
-  <li><a href="#adoption-of-bylaws" id="toc-adoption-of-bylaws" class="nav-link" data-scroll-target="#adoption-of-bylaws">1. Adoption of Bylaws</a></li>
-  <li><a href="#appointment-of-officers" id="toc-appointment-of-officers" class="nav-link" data-scroll-target="#appointment-of-officers">2. Appointment of Officers</a></li>
-  <li><a href="#conflict-of-interest-policy" id="toc-conflict-of-interest-policy" class="nav-link" data-scroll-target="#conflict-of-interest-policy">3. Conflict of Interest Policy</a></li>
-  <li><a href="#authorization-to-obtain-tax-exempt-status" id="toc-authorization-to-obtain-tax-exempt-status" class="nav-link" data-scroll-target="#authorization-to-obtain-tax-exempt-status">4. Authorization to Obtain Tax-Exempt Status</a></li>
-  <li><a href="#banking-authority" id="toc-banking-authority" class="nav-link" data-scroll-target="#banking-authority">5. Banking Authority</a></li>
-  <li><a href="#ratification" id="toc-ratification" class="nav-link" data-scroll-target="#ratification">6. Ratification</a></li>
-  </ul></li>
-  <li><a href="#bylaws" id="toc-bylaws" class="nav-link" data-scroll-target="#bylaws">Bylaws</a>
-  <ul class="collapse">
-  <li><a href="#article-i-name" id="toc-article-i-name" class="nav-link" data-scroll-target="#article-i-name">ARTICLE I — NAME</a></li>
-  <li><a href="#article-ii-purpose" id="toc-article-ii-purpose" class="nav-link" data-scroll-target="#article-ii-purpose">ARTICLE II — PURPOSE</a></li>
-  <li><a href="#article-iii-offices" id="toc-article-iii-offices" class="nav-link" data-scroll-target="#article-iii-offices">ARTICLE III — OFFICES</a></li>
-  <li><a href="#article-iv-directors" id="toc-article-iv-directors" class="nav-link" data-scroll-target="#article-iv-directors">ARTICLE IV — DIRECTORS</a></li>
-  <li><a href="#article-v-officers" id="toc-article-v-officers" class="nav-link" data-scroll-target="#article-v-officers">ARTICLE V — OFFICERS</a></li>
-  <li><a href="#article-vi-conflicts-of-interest" id="toc-article-vi-conflicts-of-interest" class="nav-link" data-scroll-target="#article-vi-conflicts-of-interest">ARTICLE VI — CONFLICTS OF INTEREST</a></li>
-  <li><a href="#article-vii-limitations" id="toc-article-vii-limitations" class="nav-link" data-scroll-target="#article-vii-limitations">ARTICLE VII — LIMITATIONS</a></li>
-  <li><a href="#article-viii-dissolution" id="toc-article-viii-dissolution" class="nav-link" data-scroll-target="#article-viii-dissolution">ARTICLE VIII — DISSOLUTION</a></li>
-  <li><a href="#article-ix-amendments" id="toc-article-ix-amendments" class="nav-link" data-scroll-target="#article-ix-amendments">ARTICLE IX — AMENDMENTS</a></li>
-  <li><a href="#certification" id="toc-certification" class="nav-link" data-scroll-target="#certification">CERTIFICATION</a></li>
-  </ul></li>
-  <li><a href="#conflict-of-interest-policy-1" id="toc-conflict-of-interest-policy-1" class="nav-link" data-scroll-target="#conflict-of-interest-policy-1">Conflict of Interest Policy</a>
-  <ul class="collapse">
-  <li><a href="#article-i-purpose" id="toc-article-i-purpose" class="nav-link" data-scroll-target="#article-i-purpose">Article I — Purpose</a></li>
-  <li><a href="#article-ii-duty-to-disclose" id="toc-article-ii-duty-to-disclose" class="nav-link" data-scroll-target="#article-ii-duty-to-disclose">Article II — Duty to Disclose</a></li>
-  <li><a href="#article-iii-procedures" id="toc-article-iii-procedures" class="nav-link" data-scroll-target="#article-iii-procedures">Article III — Procedures</a></li>
-  <li><a href="#article-iv-records" id="toc-article-iv-records" class="nav-link" data-scroll-target="#article-iv-records">Article IV — Records</a></li>
-  <li><a href="#article-v-compensation" id="toc-article-v-compensation" class="nav-link" data-scroll-target="#article-v-compensation">Article V — Compensation</a></li>
-  <li><a href="#article-vi-affiliated-entities-and-transparency" id="toc-article-vi-affiliated-entities-and-transparency" class="nav-link" data-scroll-target="#article-vi-affiliated-entities-and-transparency">Article VI — Affiliated Entities and Transparency</a></li>
-  </ul></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="governance.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Organizing Document</h1>
+<h1 class="title">Governance</h1>
 </div>
 
 
@@ -188,154 +200,122 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="generation-of-participation-in-democracy" class="level2">
-<h2 class="anchored" data-anchor-id="generation-of-participation-in-democracy">Generation of Participation in Democracy</h2>
-<p>This page contains founding documents for the formation of a California Public Benefit corporation and Internal Revenue Service tax exemption under section 501(c)(3): the Generation of Participation in Democracy.</p>
-<p>We are a California Public Benefit corporation in good standing. Our application for 501(c)(3) tax exemption has been submitted for review by the IRS.</p>
-<p>To apply for the 501(c)(3) exemption there must be a board with a president, secretary, and treasurer. For now, <a href="https://mat.phd">Matthew A. Turner, PhD</a> is the sole board member filling all three roles. This is temporary.</p>
-<p>Dr.&nbsp;Turner will serve as President of the GPD for the foreseeable future. Dr. Turner is currently interviewing candidates to fill the roles of Secretary and Treasurer.</p>
-<p>The documents below establish sole directorship, bylaws, and a conflict of interest policy.</p>
+<p>The GPD Network serves as the shared leadership community for a growing ecosystem of affiliated organizations and projects. Cumulus provides a common forum in which leaders coordinate strategy, stewardship, and long-term direction while each participating organization retains its own legal identity, governing documents, and mission.</p>
+<p>This shared governance task force’s mission is to found the organizational infrastructure to ensure affiliated organizations achieve decades of sustainable business based on transparency, continuity, and compliance.</p>
+<p>As the ecosystem evolves, its governance will evolve with it. The structures described here are intentionally lightweight and are expected to adapt as new leaders, organizations, and communities join the GPD Network.</p>
+<p>We publish our governance documents, meeting minutes, and major decisions as part of our commitment to openness, institutional learning, and responsible stewardship. A <a href="#governance-document-archive">listing of our governing documents</a> follows the presentation of our board of directors.</p>
+<section id="executive-leadershipboard-of-directors" class="level2">
+<h2 class="anchored" data-anchor-id="executive-leadershipboard-of-directors">Executive Leadership/Board of Directors</h2>
+<p>Our directors serve identical roles at both GPD and STS. This is temporary scaffolding as we continue to identify and fill key roles.</p>
+<p>The current board act as Community executive leadership for the foreseeable future. Specific roles within organizations will be adjusted as necessary for success.</p>
+<section id="president-matthew-a.-turner-phd" class="level3">
+<h3 class="anchored" data-anchor-id="president-matthew-a.-turner-phd">President <span class="name">Matthew A. Turner, PhD</span></h3>
+<p><img src="images/MatthewTurner.png" class="member-photo img-fluid"></p>
+<p>Dr.&nbsp;Matt Turner is the Founder and President of the Generation of Participation in Democracy and SubtleTea Solutions. His mission is to make science work for scientists, in pursuit of a sustainable economic system based on <em>enough</em> instead of our current system based on <em>never enough</em>.</p>
+<p>In practice this means he focuses on developing organizations and principles to help innovative basic research live up to its full potential for positive real world impact.</p>
+<p>In a typical day, Dr.&nbsp;Turner might work on new coursework and writing, publish new content to be included in a forthcoming book, <em>Quantitative Social Science for Sustainable Futures</em>, creating new computer hardware and software, or lead a board meeting.</p>
+<p><a href="https://mat.phd">Dr.&nbsp;Turner’s website</a></p>
 </section>
-<section id="sole-director-written-consent" class="level2">
-<h2 class="anchored" data-anchor-id="sole-director-written-consent">Sole Director Written Consent</h2>
-<p>UNANIMOUS WRITTEN CONSENT OF THE SOLE DIRECTOR OF GENERATION OF PARTICIPATION IN DEMOCRACY</p>
-<p>The undersigned, being the sole director of Generation of Participation in Democracy, a California nonprofit public benefit corporation, hereby adopts the following resolutions by unanimous written consent pursuant to applicable California law.</p>
-<section id="adoption-of-bylaws" class="level3">
-<h3 class="anchored" data-anchor-id="adoption-of-bylaws">1. Adoption of Bylaws</h3>
-<p>RESOLVED, that the bylaws presented to the director are hereby adopted as the bylaws of the corporation (see the <a href="#bylaws">Bylaws section</a> below).</p>
+<section id="secretary-izabela-mauricio-de-rezende-phd" class="level3">
+<h3 class="anchored" data-anchor-id="secretary-izabela-mauricio-de-rezende-phd">Secretary <span class="name">Izabela Mauricio de Rezende, PhD</span></h3>
+<p><img src="images/IzabelaRezende.png" class="member-photo img-fluid"></p>
+<p>Dr.&nbsp;Izabela Rezende is the Founder and Director of Instituto Dourados, the inaugural Flagship Institute of the GPD.</p>
+<p>Dr.&nbsp;Rezende will ensure that all members of the GPD Network deliver on our promise to serve the Indigenous peoples of Dourados, and improve public health and sustainability policy outcomes in general.</p>
+<p>She will ensure our for-profit affiliate, SubtleTea Solutions, contributes to the greater good while maintaining its focus making excellent products for our customers and making sustainability lucrative for investors.</p>
+<p><a href="https://www.linkedin.com/in/izabela-rezende/">Dr.&nbsp;Rezende on LinkedIn</a></p>
 </section>
-<section id="appointment-of-officers" class="level3">
-<h3 class="anchored" data-anchor-id="appointment-of-officers">2. Appointment of Officers</h3>
-<p>RESOLVED, that the following officers are appointed to serve until resignation, removal, or successor appointment:</p>
-<p>President: Matthew A. Turner, PhD Secretary: Matthew A. Turner, PhD Treasurer: Matthew A. Turner, PhD</p>
-</section>
-<section id="conflict-of-interest-policy" class="level3">
-<h3 class="anchored" data-anchor-id="conflict-of-interest-policy">3. Conflict of Interest Policy</h3>
-<p>RESOLVED, that the <a href="#conflict-of-interest-policy-1">Conflict of Interest Policy</a> presented to the director is hereby adopted (see below).</p>
-</section>
-<section id="authorization-to-obtain-tax-exempt-status" class="level3">
-<h3 class="anchored" data-anchor-id="authorization-to-obtain-tax-exempt-status">4. Authorization to Obtain Tax-Exempt Status</h3>
-<p>RESOLVED, that the officers of the corporation are authorized and directed to prepare and submit Form 1023 and any related filings necessary to obtain recognition of exemption under Section 501(c)(3) of the Internal Revenue Code.</p>
-</section>
-<section id="banking-authority" class="level3">
-<h3 class="anchored" data-anchor-id="banking-authority">5. Banking Authority</h3>
-<p>RESOLVED, that the officers are authorized to establish bank accounts and conduct ordinary financial operations on behalf of the corporation.</p>
-</section>
-<section id="ratification" class="level3">
-<h3 class="anchored" data-anchor-id="ratification">6. Ratification</h3>
-<p>RESOLVED, that all actions previously taken on behalf of the corporation consistent with these resolutions are ratified and approved.</p>
-<p>DATED: 11 May 2026</p>
-<p><img src="signature.jpg" class="img-fluid" width="200"></p>
-<p>Matthew A. Turner, PhD</p>
-<p>President &amp; Sole Director</p>
+<section id="treasurer-joshua-rueckheim-mba" class="level3">
+<h3 class="anchored" data-anchor-id="treasurer-joshua-rueckheim-mba">Treasurer <span class="name">Joshua Rueckheim, MBA</span></h3>
+<p><img src="images/JoshuaRueckheim.png" class="member-photo img-fluid"></p>
+<p>Joshua Rueckheim oversees book keeping, develops controls and ensures enforcement, and assists with structuring and executing forecasts and other business processes. Mr.&nbsp;Rueckheim applies his decades of expertise in business management to ensure the financial integrity of the GPD Network’s organizations.</p>
+<p>Mr.&nbsp;Rueckheim is currently Finance Director for the Philadelphia Hospitality Investment Levy and for <a href="https://www.altamsi.com/our-team/">Alta Management Services</a>. Before joining Alta, Mr.&nbsp;Rueckheim worked for Mariott International for 10 years in various finance and accounting roles.</p>
+<p><a href="https://www.linkedin.com/in/joshua-rueckheim-96241226/">Mr.&nbsp;Rueckheim on LinkedIn</a></p>
 </section>
 </section>
-<section id="bylaws" class="level2">
-<h2 class="anchored" data-anchor-id="bylaws">Bylaws</h2>
-<p>BYLAWS OF GENERATION OF PARTICIPATION IN DEMOCRACY</p>
-<section id="article-i-name" class="level3">
-<h3 class="anchored" data-anchor-id="article-i-name">ARTICLE I — NAME</h3>
-<p>The name of this corporation is Generation of Participation in Democracy.</p>
-</section>
-<section id="article-ii-purpose" class="level3">
-<h3 class="anchored" data-anchor-id="article-ii-purpose">ARTICLE II — PURPOSE</h3>
-<p>This corporation is organized exclusively for charitable, educational, scientific, and related exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.</p>
-</section>
-<section id="article-iii-offices" class="level3">
-<h3 class="anchored" data-anchor-id="article-iii-offices">ARTICLE III — OFFICES</h3>
-<p>The principal office of the corporation shall be located in California or such other location as determined by the Board of Directors.</p>
-</section>
-<section id="article-iv-directors" class="level3">
-<h3 class="anchored" data-anchor-id="article-iv-directors">ARTICLE IV — DIRECTORS</h3>
-<section id="section-1.-powers" class="level4">
-<h4 class="anchored" data-anchor-id="section-1.-powers">Section 1. Powers</h4>
-<p>The affairs of the corporation shall be managed by its Board of Directors.</p>
-</section>
-<section id="section-2.-number" class="level4">
-<h4 class="anchored" data-anchor-id="section-2.-number">Section 2. Number</h4>
-<p>The authorized number of directors shall be not less than one (1) nor more than seven (7), with the exact number fixed by resolution of the Board.</p>
-</section>
-<section id="section-3.-terms" class="level4">
-<h4 class="anchored" data-anchor-id="section-3.-terms">Section 3. Terms</h4>
-<p>Directors shall serve until resignation, removal, or successor appointment.</p>
-</section>
-<section id="section-4.-meetings" class="level4">
-<h4 class="anchored" data-anchor-id="section-4.-meetings">Section 4. Meetings</h4>
-<p>Meetings may be held in person or by electronic communication.</p>
-</section>
-<section id="section-5.-written-consent" class="level4">
-<h4 class="anchored" data-anchor-id="section-5.-written-consent">Section 5. Written Consent</h4>
-<p>Any action required or permitted to be taken by the Board may be taken without a meeting if written consent is provided.</p>
-</section>
-</section>
-<section id="article-v-officers" class="level3">
-<h3 class="anchored" data-anchor-id="article-v-officers">ARTICLE V — OFFICERS</h3>
-<p>The officers of the corporation shall include a President, Secretary, and Treasurer, and may include additional officers as determined by the Board.</p>
-</section>
-<section id="article-vi-conflicts-of-interest" class="level3">
-<h3 class="anchored" data-anchor-id="article-vi-conflicts-of-interest">ARTICLE VI — CONFLICTS OF INTEREST</h3>
-<p>The corporation shall maintain and comply with a Conflict of Interest Policy.</p>
-</section>
-<section id="article-vii-limitations" class="level3">
-<h3 class="anchored" data-anchor-id="article-vii-limitations">ARTICLE VII — LIMITATIONS</h3>
-<p>No part of the net earnings of the corporation shall inure to the benefit of any private individual except for reasonable compensation for services rendered.</p>
-<p>The corporation shall not participate or intervene in any political campaign on behalf of or in opposition to any candidate for public office.</p>
-</section>
-<section id="article-viii-dissolution" class="level3">
-<h3 class="anchored" data-anchor-id="article-viii-dissolution">ARTICLE VIII — DISSOLUTION</h3>
-<p>Upon dissolution, the assets of the corporation shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code.</p>
-</section>
-<section id="article-ix-amendments" class="level3">
-<h3 class="anchored" data-anchor-id="article-ix-amendments">ARTICLE IX — AMENDMENTS</h3>
-<p>These bylaws may be amended by the Board of Directors.</p>
-</section>
-<section id="certification" class="level3">
-<h3 class="anchored" data-anchor-id="certification">CERTIFICATION</h3>
-<p>These bylaws were adopted on 11 May 2026.</p>
-<p><img src="signature.jpg" class="img-fluid" width="200"></p>
-<p>Matthew Turner</p>
-<p>Secretary</p>
-</section>
-</section>
-<section id="conflict-of-interest-policy-1" class="level2">
-<h2 class="anchored" data-anchor-id="conflict-of-interest-policy-1">Conflict of Interest Policy</h2>
-<p>CONFLICT OF INTEREST POLICY OF THE GENERATION OF PARTICIPATION IN DEMOCRACY</p>
-<section id="article-i-purpose" class="level3">
-<h3 class="anchored" data-anchor-id="article-i-purpose">Article I — Purpose</h3>
-<p>The purpose of this policy is to protect the interests of the corporation when considering transactions or arrangements that may benefit the private interests of a director, officer, or key person.</p>
-</section>
-<section id="article-ii-duty-to-disclose" class="level3">
-<h3 class="anchored" data-anchor-id="article-ii-duty-to-disclose">Article II — Duty to Disclose</h3>
-<p>Interested persons shall disclose any actual or potential conflicts of interest.</p>
-</section>
-<section id="article-iii-procedures" class="level3">
-<h3 class="anchored" data-anchor-id="article-iii-procedures">Article III — Procedures</h3>
-<p>The Board shall determine whether a conflict exists and whether any proposed arrangement is fair, reasonable, and in the best interests of the corporation.</p>
-</section>
-<section id="article-iv-records" class="level3">
-<h3 class="anchored" data-anchor-id="article-iv-records">Article IV — Records</h3>
-<p>The minutes of the corporation shall document disclosures, determinations, and approvals related to conflicts of interest.</p>
-</section>
-<section id="article-v-compensation" class="level3">
-<h3 class="anchored" data-anchor-id="article-v-compensation">Article V — Compensation</h3>
-<p>Compensation arrangements shall be reviewed and approved using reasonable and transparent procedures.</p>
-</section>
-<section id="article-vi-affiliated-entities-and-transparency" class="level3">
-<h3 class="anchored" data-anchor-id="article-vi-affiliated-entities-and-transparency">Article VI — Affiliated Entities and Transparency</h3>
-<p>The corporation may collaborate with or receive operational support from affiliated entities, including Subtlety Solutions (STS). STS is an LLC owned by director, president, treasurer, and secretary Matthew Turner.</p>
-<p>The corporation recognizes that overlapping leadership, infrastructure, technical services, or financial relationships may create actual or perceived conflicts of interest.</p>
-<p>Such relationships are permitted only when fully disclosed, documented, and determined to be fair, reasonable, and in the best interests of the corporation.</p>
-<p>The corporation therefore maintains a robust transparency and disclosure framework, including documented approvals, public-facing financial reporting where appropriate, and formal conflict review procedures intended to preserve the corporation’s charitable mission and public trust.</p>
-<p>ADOPTED: 11 May 2026</p>
-<p><img src="signature.jpg" class="img-fluid" width="200"></p>
-<p>Matthew Turner</p>
-<p>Secretary</p>
+<section id="governance-document-archive" class="level2">
+<h2 class="anchored" data-anchor-id="governance-document-archive">Governance Document Archive</h2>
+<p>Please select a document of interest from the listing below.</p>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-date-sort="1782975600000" data-listing-file-modified-sort="1785432814061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="271" data-listing-title-sort="Joshua Rueckheim Invited to Join Leadership Team" data-listing-filename-sort="2.qmd">
+<td>
+<span class="listing-date">Jul 2, 2026</span>
+</td>
+<td>
+<a href="./minutes/2.html" class="title listing-title">Joshua Rueckheim Invited to Join Leadership Team</a>
+</td>
+<td>
+<span class="listing-author">&nbsp;</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-date-sort="1782889200000" data-listing-file-modified-sort="1785432663951" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="380" data-listing-title-sort="GPD Network Shared Governance Establishment" data-listing-filename-sort="1.qmd">
+<td>
+<span class="listing-date">Jul 1, 2026</span>
+</td>
+<td>
+<a href="./minutes/1.html" class="title listing-title">GPD Network Shared Governance Establishment</a>
+</td>
+<td>
+<span class="listing-author">Matthew A. Turner</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -409,7 +389,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/gpd\.network");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
