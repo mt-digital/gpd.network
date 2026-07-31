@@ -5,48 +5,39 @@
                         for Sustainable Futures</h2>
 
 
-**Public Benefit Mission.** GPD is a tax-exempt 501(c)(3) public charity and
-non-governmental organization that serves others by helping them use science,
-technology, and education to regain autonomy that might have been lost,
-especially among historically marginalized peoples. _**IRS Employer
+**Public Benefit Mission.** The Generation of Participation in Democracy (GPD)
+is a tax-exempt 501(c)(3) public charity and non-governmental organization that
+leverages science, technology, and education to help groups enhance their
+autonomy, especially historically marginalized groups. _**IRS Employer
 Identification Number: 41-4992916.**_
 
-**Sustainability.** We align our mission with the United Nations' [Sustainable
-Development Goals](https://sdgs.un.org/goals), focusing on developing and
-securing the foundations of participation for the 21st century.
-Our system for sustainability identifies how vibrant institutions help people
-participate by ensuring everyone's needs are met.
-Expanded, coordinated participation could be a surprisingly sturdy bulwark
-against risk and uncertainty.
+**Sustainability.** In the GPD system, vibrant institutions are the rock on
+sustainability builds. Institutions play a vital role promoting participation by
+ensuring human needs are met. Enhancing participation could be a
+surprisingly sturdy bulwark against risk and uncertainty.
 
-**Education.** Our _agile_ educational practices put
+**Education.** Our agile educational practices put
 synthesis and application first, and exhaustive theory second. Education
-archives and spreads word about _why_ certain practices are more beneficial,
+records and spreads the word _why_ certain practices are more beneficial,
 and _how_ to practice them. Education provides the foundation for invention.
 
 **Transparency.** Meaningful democratic participation requires transparency.
-GPD operates under a principle of radical transparency in most cases.
-True transparency in democracies requires an educated population that can
-analyze business data and make use of information supporting transparency.
+GPD operates under a principle of radical transparency for financial decisions and
+[governance](governance.qmd). True transparency in democracies requires an educated
+population that can analyze data quantitatively.
 
 
 ## A Sustainability VIBE to Boost Participation
 
-Our approach to boosting democratic participation amounts to raising the global
-**Sustainability _VIBE_**. We create tools and systems to accelerate the
-creation of _**V**ibrant **I**nstitutions_ that ensure everyone's
+Our approach to boosting democratic participation is to raise the global
+**Sustainability _VIBE_**. That is, we create tools and systems to support
+_**V**ibrant **I**nstitutions_ that ensure everyone's
 _**B**asic needs are met_. Only when basic needs are met can people be expected
-to collectively protect our _**E**nvironment_.
-We must protect our environment to guarantee it is sustained for our children,
-their children and grandchildren and ever on down to future generations.
+contribute to _**E**nvironmental protection_.
+Future generations need a healthy environment for a good life,
+liberty, and the pursuit of happiness, free from excessive risk and uncertainty.
 
-In more formal language, our mission is to increase informed democratic
-participation by means of building _sustainable capacity_, _individual
-sovereignty_, and _collective autonomy_. This means technical, social, and
-political capacities exist within a group that can be readily leveraged to
-provide goods and services for that group. It further means that individuals are
-not forced to comply or conform, but instead choose to participate out of
-authentic self interest.
+
 
 ![The Sustainability VIBE in layers, with dependency flowing
 bottom-up.](VIBE-illustration.png)
@@ -56,6 +47,9 @@ bottom-up.](VIBE-illustration.png)
 
 Our first Flagship Institute, [Instituto Dourados](https://institutodourados.org), develops and deploys public health systems in collaboration with Indigenous communities, integrating epidemiology, social science, and multilingual knowledge sharing.
 
+Public health is one of the essential _Basic_ needs for keeping up the
+sustainability _VIBE_.
+
 To inquire about participating in the Flagship Accelerator program, please
 contact [GPD President Matt Turner](mailto:matt@gpd.network) or [GPD Secretary Iza Rezende](mailto:iza@gpd.network).
 
@@ -63,10 +57,6 @@ contact [GPD President Matt Turner](mailto:matt@gpd.network) or [GPD Secretary I
 **Organizing Documents:** See our [Governance Documents page](governance.qmd).
 
 **Transparency inquiries:** [transparency@gpdamericas.org](mailto:transparency@gpdamericas.org)
-
-
-**Download our 501(c)(3) exemption approval letter:**
-[GPD_501c3_Approval.pdf](files/GPD_501c3_Approval.pdf).
 
 <br>
 <br>
@@ -77,7 +67,8 @@ contact [GPD President Matt Turner](mailto:matt@gpd.network) or [GPD Secretary I
 
 ### Founder’s Statement
 
-GPD is built to move from theory to implementation—combining research, infrastructure, and education to support sustainable futures across the Americas.
+GPD is built to move from theory to implementation—combining research,
+infrastructure, and education to support sustainable futures worldwide.
 
 <div class="founder-bio">
 
@@ -100,7 +91,7 @@ GPD is built to move from theory to implementation—combining research, infrast
 
 <p style="font-size: 15px; margin-bottom: 5px;">
   Founder &amp; Architect<br>
-  GPD Américas
+  The Generation of Participation in Democracy
 </p>
 
 <p>
