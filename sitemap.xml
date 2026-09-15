@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gpd.network/index.html</loc>
-    <lastmod>2026-07-31T02:11:20.598Z</lastmod>
+    <loc>https://gpd.network/giving.html</loc>
+    <lastmod>2026-09-15T06:52:17.002Z</lastmod>
   </url>
   <url>
     <loc>https://gpd.network/minutes/2.html</loc>
-    <lastmod>2026-07-30T17:33:34.061Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gpd.network/giving.html</loc>
-    <lastmod>2026-07-30T13:54:41.276Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gpd.network/minutes/1.html</loc>
-    <lastmod>2026-07-30T17:31:03.951Z</lastmod>
+    <lastmod>2026-09-15T05:48:38.823Z</lastmod>
   </url>
   <url>
     <loc>https://gpd.network/governance.html</loc>
-    <lastmod>2026-07-30T17:54:31.287Z</lastmod>
+    <lastmod>2026-09-15T05:48:38.757Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gpd.network/minutes/1.html</loc>
+    <lastmod>2026-09-15T05:48:38.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gpd.network/index.html</loc>
+    <lastmod>2026-09-15T05:51:28.215Z</lastmod>
   </url>
 </urlset>
