@@ -2,20 +2,22 @@ project:
   type: website
 
 website:
-  favicon: gpd-logo-square.jpeg
+
   open-graph: true
   title: "Generation of Participation in Democracy"
+  body-footer: footer.html
+
+  favicon: gpd-logo-square.jpeg
+
   navbar:
-    # logo: gpd-logo-square.jpeg
     left:
       - href: index.qmd
         text: Mission
-      # - href: institutodourados.qmd
-      # - href: giving.qmd
       - href: governance.qmd
 
     background: "#b0c7c4"
     foreground: "#628089"
+
 
 format:
   html:
@@ -23,5 +25,5 @@ format:
       - cosmo
       - styles.scss
     mainfont: "Source Serif 4"
-
-
+    toc: true
+    toc-depth: 2

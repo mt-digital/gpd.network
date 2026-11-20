@@ -7,97 +7,94 @@ listing:
   categories: false
 ---
 
-The GPD Network serves as the shared leadership community for a growing
-ecosystem of affiliated organizations and projects. Cumulus provides a common
-forum in which leaders coordinate strategy, stewardship, and long-term direction
-while each participating organization retains its own legal identity, governing
-documents, and mission.
-
-This shared governance task force's mission is to
-found the organizational infrastructure to ensure affiliated organizations
-achieve decades of sustainable business based on transparency, continuity, and
-compliance.
-
-As the ecosystem evolves, its governance will evolve with it. The structures
-described here are intentionally lightweight and are expected to adapt as new
-leaders, organizations, and communities join the GPD Network.
-
-We publish our governance documents, meeting minutes, and major decisions as
-part of our commitment to openness, institutional learning, and responsible
-stewardship. A [listing of our governing
-documents](#governance-document-archive) follows the presentation of our board
-of directors.
-
-## Executive Leadership/Board of Directors
-
-Our directors serve identical roles at both GPD and STS. This is temporary
-scaffolding as we continue to identify and fill key roles.
-
-The current board act as Community executive leadership for the foreseeable
-future. Specific roles within organizations will be adjusted as necessary for
-success.
+Thank you for visiting our Governance page. Please meet our leadership and
+review our governance and other documents in the [listing
+below](#governance-document-archive).
 
 
-### President <span class=name>Matthew A. Turner, PhD</span>
+## Leadership
 
-![](images/MatthewTurner.png){.member-photo}
+### President and CEO <span class=name>Matthew A. Turner, PhD</span>
 
-Dr. Matt Turner is the Founder and President of the Generation of Participation in
-Democracy and SubtleTea Solutions. His mission is to make science work for
-scientists, in pursuit of a sustainable economic system based on _enough_
-instead of our current system based on _never enough_.
+![](images/MatthewTurner.png){.leadership-photo}
 
-In practice this means he focuses on developing organizations and principles to
-help innovative basic research live up to its full potential for positive real
-world impact.
+Dr. Matt Turner is the founder, president, and CEO of the Generation of
+Participation in Democracy. He helped co-found Instituto Dourados led by [Dr.
+Rezende](#vice-president-and-chief-accountability-officer), and in partnership
+with our Indigenous partners. Dr. Turner leads the group effort to develop the
+_Future Shaper's Curriculum_ so that it meets our partner students' needs, fits
+their interests, and is well-matched to their current capacities to avoid
+boredom or discouragement.
 
-In a typical day, Dr. Turner might work on new coursework and writing, publish
-new content to be included in a forthcoming book, _Quantitative Social Science
-for Sustainable Futures_, creating new computer hardware and software, or
-lead a board meeting.
+Dr. Turner leads several GPD initiatives as CEO. He leads the recruitment,
+founding, and development of new GPD institutes who will put GPD research into
+action using tools from the Future Shaper toolkit. He provides support to GPD
+institutes on how to organize and grow their organizations, and teaching
+support for the Future Shaper's Curriculum in the classroom or community.
+
+He also leads software development for GPD, creating new and consolidating
+several existing open source software projects under the common banner of the
+_Sustained Inference_ brand. Sustained Inference unites GPD's open software
+products with computers and other products developed and sold by
+by Dr. Turner's company, [SubtleTea Solutions](https://subtleteasolutions.com).
 
 [Dr. Turner's website](https://mat.phd)
 
-### Secretary <span class=name>Izabela Mauricio de Rezende, PhD</span>
+### Vice President and Chief Accountability Officer <br><span
+class=name>Izabela Mauricio de Rezende, PhD</span>
 
-![](images/IzabelaRezende.png){.member-photo}
+![](images/IzabelaRezende.png){.leadership-photo}
 
-Dr. Izabela Rezende is the Founder and Director of Instituto Dourados, the
-inaugural Flagship Institute of the GPD.
+Dr. Iza Rezende is co-founder, Vice President, and the Chief Accountability Officer of the
+Generation of Participation in Democracy.
 
-Dr. Rezende will ensure that all members of the GPD Network deliver on our
-promise to serve the Indigenous peoples of Dourados, and improve public health
-and sustainability policy outcomes in general.
+Dr. Rezende leads research and academic initiatives at GPD to deepen our impact
+across sectors and multiply our impact over time through intentional, clever,
+and humane cultural accumulation. She is the Founder and Director of
+GPD's Flagship Institute, [Instituto Dourados](#instituto-dourados).
 
-She will ensure our for-profit affiliate, SubtleTea Solutions, contributes
-to the greater good while maintaining its focus making excellent products for
-our customers and making sustainability lucrative for investors.
+As Chief Accountability Officer, Dr. Rezende confirms, and corrects if
+necessary, GPD projects and plans so that they truly serve historically
+marginalized folks first and foremost, and promote the greater good overall.
+
+Dr. Rezende is a virologist and Research Scientist at the Stanford University
+School of Medicine, leading interdisciplinary studies on infectious disease
+epidemiology and virus evolution. Her work bridges real-time genetic
+identification of what is making people sick with public health intervention
+strategy design to better protect vulnerable populations.
+
+Dr. Rezende received her PhD in Microbiology and Virology from the Universidade
+Federal de Minas Gerais, and a MS in Infectious Diseases and BS in Biology from
+the Universidade Federal de Juiz de Fora in the state of Minas Gerais, Brazil.
 
 
 [Dr. Rezende on LinkedIn](https://www.linkedin.com/in/izabela-rezende/)
 
+
 ### Treasurer <span class=name>Joshua Rueckheim, MBA</span>
 
-![](images/JoshuaRueckheim.png){.member-photo}
+![](images/rueck.jpg){.leadership-photo}
 
-Joshua Rueckheim oversees book keeping, develops controls and
-ensures enforcement, and assists with structuring and executing
-forecasts and other business processes. Mr. Rueckheim
-applies his decades of expertise in business management to ensure the
-financial integrity of the GPD Network's organizations.
+Joshua Rueckheim oversees book keeping, develops controls and ensures
+enforcement, and assists with structuring and executing forecasts and other
+business processes. Mr. Rueckheim applies his decades of expertise in business
+management to ensure the financial integrity of the GPD Network's
+organizations.
 
 
 Mr. Rueckheim is currently Finance Director for the Philadelphia Hospitality
 Investment Levy and for [Alta Management
-Services](https://www.altamsi.com/our-team/). Before joining Alta, Mr. Rueckheim
-worked for Mariott International for 10 years in various finance and
+Services](https://www.altamsi.com/our-team/). Before joining Alta, Mr.
+Rueckheim worked for Mariott International for 10 years in various finance and
 accounting roles.
 
-[Mr. Rueckheim on LinkedIn](https://www.linkedin.com/in/joshua-rueckheim-96241226/)
+[Mr. Rueckheim on
+LinkedIn](https://www.linkedin.com/in/joshua-rueckheim-96241226/)
 
 
 ## Governance Document Archive
 
 Please select a document of interest from the listing below.
+
 
 

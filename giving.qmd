@@ -1,11 +1,9 @@
 ---
 title: "Giving"
-format: 
+format:
   html:
     tbl-cap-location: bottom
     toc: true
-  pdf: default
-
 ---
 
 <h2 style="font-size: 18px; margin-top: 5px;">Support the Generation of Participation in Democracy</h2>
@@ -22,7 +20,7 @@ they become available.
 ## Contribution Tiers
 
 The following table lists the minimum contribution for six tiers of support.
-Different tiers have different perks, as indicated by superscripts and 
+Different tiers have different perks, as indicated by superscripts and
 explained following the table.
 
 | Tier     | Min. Contribution | Description         |
@@ -37,7 +35,7 @@ explained following the table.
 
 ### Explanation of Tiers
 
-1. Includes one-year subscription Instituto Dourados Quarterly Journal. 
+1. Includes one-year subscription Instituto Dourados Quarterly Journal.
 2. The donor's name, or the name of someone the donor wants to honor, will be
    published on the website. The donor may add a short message as well.
 3. These tiers are classified as a _Major Contribution_ at GPD. Please contact
@@ -62,7 +60,7 @@ Founder, Platinum, Gold, and Silver contributions are coordinated directly to
 align with specific programs and reporting. Please contact our Giving team to
 make arrangements.
 
-- **GPD Américas — Giving**  
+- **GPD Américas — Giving**
   [giving@gpdamericas.org](mailto:giving@gpdamericas.org)
 
 ## Transparency
@@ -71,5 +69,5 @@ All contributions are governed under our public benefit mission and transparency
 principles. Currently anticipated budget allocations and funding scenarios are
 published on the Instituto Dourados page.
 
-- **GPD Américas — Transparency**  
+- **GPD Américas — Transparency**
   [transparency@gpdamericas.org](mailto:transparency@gpdamericas.org)

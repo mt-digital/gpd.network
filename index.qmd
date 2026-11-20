@@ -1,34 +1,92 @@
-<!-- # Generation of Participation in Democracy {#brand-title} -->
-<h1 id="brand-title">Generation of Participation in Democracy</h1>
+# The Generation of Participation in Democracy
 
-<h2 id="brand-subtitle">Sustainable Operating Systems <br>
-                        for Sustainable Futures</h2>
-
+## Sustainable Operating Systems For Sustainable Futures
 
 **Public Benefit Mission.** The Generation of Participation in Democracy (GPD)
-is a tax-exempt 501(c)(3) public charity and non-governmental organization that
-leverages science, technology, and education to help localities enhance their
-autonomy, especially historically marginalized ones. _**IRS Employer
-Identification Number: 41-4992916.**_
+is a tax-exempt 501(c)(3) public charity and non-governmental organization.
 
-**Sustainable Inference.** In the GPD system, vibrant institutions are the rock
-sustainability needs to stand. Institutions promote participation by
-ensuring basic needs of local residents are met so they can participate
-vigorously in democratic decision making. Enhancing participation could be a
-surprisingly sturdy bulwark against risk and uncertainty.
-
-**Education.** Our agile educational practices put
-synthesis and application first, and exhaustive theory second. Education
-records and spreads the word _why_ certain practices are more beneficial,
-and _how_ to practice them. Education provides the foundation for invention.
-
-**Transparency.** Meaningful democratic participation requires transparency.
-GPD operates under a principle of radical transparency for financial decisions and
-[governance](governance.qmd). True transparency in democracies requires an educated
-population that can analyze data quantitatively.
+We put education and research into action to help communities enhance their own
+autonomy, on their own, and accelerate capacity building.
 
 
-## A Sustainability VIBE to Boost Participation
+![Founding leaders Izabela Rezende and Matthew Turner (far right, middle right) with colleagues Laís Albuquerque and Prof. Simone Simionatto (far left, middle left) at the Universidade Federal de Grande Dourados on August 25, 2026.](images/team-at-ufgd.jpg){width=460px .lightbox}
+
+<span style="font-size: 0.9rem; color: black;">
+**GPD IRS Employer Identification Number (EIN): 41-4992916.**</span>
+
+<p style="font-size: 0.8rem; color: grey; margin-bottom: 2.2rem;">
+Look up our IRS registration with this [IRS search tool](https://apps.irs.gov/app/eos/).
+</p>
+
+
+## _Research In Action_ Accelerator Program
+
+Our Research In Action accelerator program helps founders launch nonprofit
+research institutes that put actionable insight first, with rigor a close but
+distinct second.
+
+Prospective accelerator participants must first demonstrate how their institute
+will spark self-sustaining capacity building that can continue indefinitely,
+even if the institute and community part ways.
+
+
+### Instituto Dourados
+
+Our Flagship Institute, [Instituto Dourados](https://institutodourados.org),
+develops and deploys public health education and monitoring systems in
+collaboration with Indigenous communities, integrating epidemiology, social
+science, and multilingual knowledge sharing.
+
+
+### Next Up, Instituto _You_
+
+You too could one day build an institution like Instituto Dourados by
+participating in the program. We review proposals on a rolling basis, depending
+on interest. Please contact GPD leadership to inquire about your idea.
+
+- President & CEO, [Dr. Matthew A. Turner](mailto:matt@gpd.network)
+- Vice President & Director of Instituto Dourados, [Izabela Mauricio de
+  Rezende](mailto:iza@institutodourados.org)
+
+
+## Education For Future Shapers
+
+Our _Future Shaper's Curriculum_ is being developed in partnership with the Guateka Academy Secondary School in the Dourados Indigenous Reservation in the state of Mato Grosso do Sul, Brazil (see [Instituto Dourados](#instituto-dourados) below).
+
+![Group photo with students, teachers, and visiting family at the Guateka Academy after Instituto Dourados' workshop there, August 26, 2026.](images/guateka-group-photo.jpg){width=440px .lightbox}
+
+The curriculum teaches essentials from philosophy, mathematics, programming,
+efficient computing, social science, leadership and project management skills
+for current and future _future shapers_ worldwide. The complexity of modern
+life, business, policy making, and government mandate that future leaders be
+much broader and deeper experts than anyone is expected to be today.
+
+Those completing the course will be able to build new
+community-strengthening technologies, such as multi-channel emergency alert and
+community notification systems, which one community leader suggested as a
+student project.
+
+We have also brainstormed AI-enabled edge devices that could run on solar
+energy. These devices could run local, highly-specialized, and therefore
+highly-efficient, translation devices with a camera, a speaker, and a
+microphone, so the user could interact with it using their voice to understand
+their information, and no data need ever to travel to the global Internet, and
+little personal health data need be exposed at all.
+
+Many community members cannot read and do not know Portuguese, only their
+Indigenous home language. Community leaders have told us that AI-generated
+audio and video aids that adapt in
+real-time to user questions and concerns could be life-changing for Indigenous
+peoples facing scary healthcare emergencies, surgeries, and other healthcare
+events.
+
+No digitization of languages spoken on the Reservation are available. Current
+and future students could help design and perform the initial supervised
+learning stage providing expert instruction to the AI system to seed the model.
+
+
+
+## A Sustainability VIBE To Boost Participation
 
 Our approach to boosting democratic participation is to raise the global
 **Sustainability _VIBE_**. That is, we create tools and systems to support
@@ -38,66 +96,24 @@ contribute to _**E**nvironmental protection_.
 Future generations need a healthy environment for a good life,
 liberty, and the pursuit of happiness, free from excessive risk and uncertainty.
 
-
-
 ![The Sustainability VIBE in layers, with dependency flowing
 bottom-up.](VIBE-illustration.png)
 
 
-## Instituto Dourados, our First _Flagship Institute_
 
-Our first Flagship Institute, [Instituto Dourados](https://institutodourados.org), develops and deploys public health systems in collaboration with Indigenous communities, integrating epidemiology, social science, and multilingual knowledge sharing.
+## Transparency
 
-Public health is one of the essential _Basic_ needs for keeping up the
-sustainability _VIBE_.
+Meaningful democratic participation requires transparency.
+GPD operates under a principle of radical transparency for financial decisions and
+[governance](governance.qmd).
 
-To inquire about participating in the Flagship Accelerator program, please
-contact [GPD President Matt Turner](mailto:matt@gpd.network) or [GPD Secretary Iza Rezende](mailto:iza@gpd.network).
+**To meet our board of directors or review our organizing documents and other accountability information**, please visit our [Governance](governance.qmd) page.
 
+**Inquiries:** [transparency@gpd.network](mailto:transparency@gpd.network)
 
-**Organizing Documents:** See our [Governance Documents page](governance.qmd).
-
-**Transparency inquiries:** [transparency@gpdamericas.org](mailto:transparency@gpdamericas.org)
 
 <br>
-<br>
+
 
 ![](GPD-Anchor-Logo.png){#anchor width=390px fig-align="center"}
-
-<br>
-
-### Founder’s Statement
-
-GPD is built to move from theory to implementation—combining research,
-infrastructure, and education to support sustainable futures worldwide.
-
-<div class="founder-bio">
-
-<img src="cafecito-pic.png"
-  class="float-left"
-  height="210"
-  alt="Matt Turner">
-
-<p style="font-size: 18px;">
-  <em>In solidarity and service,</em>
-</p>
-
-<img src="signature.jpg"
-  width="200"
-  alt="Matt Turner’s signature">
-
-<p style="font-size: 20px;">
-  <strong>Matt Turner, PhD</strong>
-</p>
-
-<p style="font-size: 15px; margin-bottom: 5px;">
-  Founder &amp; Architect<br>
-  The Generation of Participation in Democracy
-</p>
-
-<p>
-  <a href="mailto:matt@mat.phd">Contact</a>
-</p>
-
-</div>
 
