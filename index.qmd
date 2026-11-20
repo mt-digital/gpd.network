@@ -1,6 +1,6 @@
 # The Generation of Participation in Democracy
 
-## Sustainable Operating Systems For Sustainable Futures
+## Research In Action For Sustainable Futures
 
 **Public Benefit Mission.** The Generation of Participation in Democracy (GPD)
 is a tax-exempt 501(c)(3) public charity and non-governmental organization.
@@ -8,8 +8,9 @@ is a tax-exempt 501(c)(3) public charity and non-governmental organization.
 We put education and research into action to help communities enhance their own
 autonomy, on their own, and accelerate capacity building.
 
+If you would like to support us, please consider supporting our 2027 educational program by [helping send laptops and instructors to Indigenous students in Brazil](https://www.zeffy.com/en-US/donation-form/health-decisions-should-be-in-the-hands-of-local-communities-help-us-develop-the-tools-and-programs-to-make-it-happen)!
 
-![Founding leaders Izabela Rezende and Matthew Turner (far right, middle right) with colleagues Laís Albuquerque and Prof. Simone Simionatto (far left, middle left) at the Universidade Federal de Grande Dourados on August 25, 2026.](images/team-at-ufgd.jpg){width=460px .lightbox}
+![Founding leaders Izabela Rezende and Matthew Turner (far right, middle right) with colleagues Laís Albuquerque and Prof. Simone Simionatto (far left, middle left) at the Universidade Federal da Grande Dourados on August 25, 2026.](images/team-at-ufgd.jpg){width=460px .lightbox}
 
 <span style="font-size: 0.9rem; color: black;">
 **GPD IRS Employer Identification Number (EIN): 41-4992916.**</span>
@@ -51,20 +52,24 @@ on interest. Please contact GPD leadership to inquire about your idea.
 
 ## Education For Future Shapers
 
-Our _Future Shaper's Curriculum_ is being developed in partnership with the Guateka Academy Secondary School in the Dourados Indigenous Reservation in the state of Mato Grosso do Sul, Brazil (see [Instituto Dourados](#instituto-dourados) below).
+Our _Future Shaper's Curriculum_ is being developed in partnership with the
+Guateka Academy Secondary School in the Dourados Indigenous Reservation in the
+state of Mato Grosso do Sul, Brazil, facilitated by Instituto Dourados.
 
-![Group photo with students, teachers, and visiting family at the Guateka Academy after Instituto Dourados' workshop there, August 26, 2026.](images/guateka-group-photo.jpg){width=440px .lightbox}
+![Group photo with students, teachers, and visiting family at the Guateka
+Academy after Instituto Dourados' workshop there, August 26,
+2026.](images/guateka-group-photo.jpg){width=440px .lightbox}
 
 The curriculum teaches essentials from philosophy, mathematics, programming,
 efficient computing, social science, leadership and project management skills
-for current and future _future shapers_ worldwide. The complexity of modern
-life, business, policy making, and government mandate that future leaders be
-much broader and deeper experts than anyone is expected to be today.
+for current and future _future shapers_ worldwide. Business, policy making,
+government, and even just daily life have become complex without precedent.
+The future's most effective leaders will boast a much deeper expertise across
+a much broader collection of subjects than is expected of anyone today.
 
-Those completing the course will be able to build new
-community-strengthening technologies, such as multi-channel emergency alert and
-community notification systems, which one community leader suggested as a
-student project.
+Those completing the course will be able to build new community-strengthening
+technologies, such as multi-channel emergency alert and community notification
+systems, which one community leader suggested as a student project.
 
 We have also brainstormed AI-enabled edge devices that could run on solar
 energy. These devices could run local, highly-specialized, and therefore
@@ -75,15 +80,13 @@ little personal health data need be exposed at all.
 
 Many community members cannot read and do not know Portuguese, only their
 Indigenous home language. Community leaders have told us that AI-generated
-audio and video aids that adapt in
-real-time to user questions and concerns could be life-changing for Indigenous
-peoples facing scary healthcare emergencies, surgeries, and other healthcare
-events.
+audio and video aids that adapt in real-time to user questions and concerns
+could be life-changing for Indigenous peoples facing scary healthcare
+emergencies, surgeries, and other healthcare events.
 
 No digitization of languages spoken on the Reservation are available. Current
 and future students could help design and perform the initial supervised
 learning stage providing expert instruction to the AI system to seed the model.
-
 
 
 ## A Sustainability VIBE To Boost Participation

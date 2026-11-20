@@ -3,6 +3,15 @@ project:
 
 website:
 
+  announcement:
+    icon: heart
+    dismissable: false
+    content: "Send laptops and instructors to Indigenous students in 🇧🇷 Brazil 🇧🇷 ...please see our [CURRENT FUNDRAISER](https://www.zeffy.com/en-US/donation-form/health-decisions-should-be-in-the-hands-of-local-communities-help-us-develop-the-tools-and-programs-to-make-it-happen)! <i class='bi bi-peace'></i> <i class='bi bi-passport'></i>"
+
+    # type: light
+    type: success
+    position: below-navbar
+
   open-graph: true
   title: "Generation of Participation in Democracy"
   body-footer: footer.html
