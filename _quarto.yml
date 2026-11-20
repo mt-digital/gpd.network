@@ -13,7 +13,7 @@ website:
     position: below-navbar
 
   open-graph: true
-  title: "Generation of Participation in Democracy"
+  title: "GPD"
   body-footer: footer.html
 
   favicon: gpd-logo-square.jpeg
