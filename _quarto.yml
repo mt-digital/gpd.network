@@ -1,7 +1,13 @@
 project:
   type: website
+  resources:
+    - fundraiser/index.html
 
 website:
+
+  title: "GPD"
+
+  favicon: gpd-logo-square.jpeg
 
   announcement:
     icon: heart
@@ -13,10 +19,8 @@ website:
     position: below-navbar
 
   open-graph: true
-  title: "GPD"
   body-footer: footer.html
 
-  favicon: gpd-logo-square.jpeg
 
   navbar:
     left:
